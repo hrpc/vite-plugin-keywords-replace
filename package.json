@@ -1,9 +1,14 @@
 {
-  "name": "vite-plugin-keywords-replace",
-  "version": "1.0.0",
-  "description": "keywords-replace plugin for vite@v2",
-  "main": "src/index.js",
+  "name": "vite-plugin-keyword-replace",
+  "version": "1.0.4",
+  "description": "keyword-replace plugin for vite@v2",
+  "main": "dist/index.js",
   "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0"
   },
   "repository": {
     "type": "git",
@@ -16,7 +21,7 @@
     "plugin",
     "vite-plugin"
   ],
-  "author": "hrpc 15208302644@163.com",
+  "author": "hrpc",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hrpc/vite-plugin-keywords-replace/issues"

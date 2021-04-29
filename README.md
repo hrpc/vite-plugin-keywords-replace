@@ -1,2 +1,2 @@
-# vite-plugin-keywords-replace
-keywords-replace plugin for vite@v2
+# vite-plugin-keyword-replace
+keyword-replace plugin for vite@v2
