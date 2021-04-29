@@ -1,0 +1,25 @@
+{
+  "name": "vite-plugin-keywords-replace",
+  "version": "1.0.0",
+  "description": "keywords-replace plugin for vite@v2",
+  "main": "src/index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrpc/vite-plugin-keywords-replace.git"
+  },
+  "keywords": [
+    "replace",
+    "keywords",
+    "vite",
+    "plugin",
+    "vite-plugin"
+  ],
+  "author": "hrpc 15208302644@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrpc/vite-plugin-keywords-replace/issues"
+  },
+  "homepage": "https://github.com/hrpc/vite-plugin-keywords-replace#readme"
+}
