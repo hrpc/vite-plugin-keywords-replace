@@ -2,7 +2,7 @@
   "name": "vite-plugin-keywords-replace",
   "version": "1.0.6",
   "description": "keywords-replace plugin for vite@v2",
-  "main": "dist/index.js",
+  "main": "dist/vite-plugin-keywords-replace.js",
   "scripts": {
     "build": "rollup -c rollup.config.js"
   },
